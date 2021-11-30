@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 echo -e
 echo -e
 YELLOW="\033[1;33m"
